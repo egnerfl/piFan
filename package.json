@@ -1,0 +1,15 @@
+{
+  "name": "piFan",
+  "version": "1.0.0",
+  "description": "Control a Fon for the Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Egner",
+  "license": "ISC",
+  "dependencies": {
+    "node-dht-sensor": "0.0.8",
+    "onoff": "^1.0.2"
+  }
+}
